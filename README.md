@@ -29,8 +29,7 @@ The website is a SPA (Single Page Application) with:
 ## Running application :calling:
 
 ---
-
-![Link Demo](https://www.loom.com/share/c53f9cf29d5f4ed29eb29fc9cc85d6a4?utm_medium=gif)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c53f9cf29d5f4ed29eb29fc9cc85d6a4?sid=9a303e0a-fdaf-4d19-9cb1-0ae246dd30d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Author:
 
