@@ -30,7 +30,7 @@ The website is a SPA (Single Page Application) with:
 
 ---
 
-![Link Demo](https://www.loom.com/share/674bc48babac4be9a324b37e61f608a3?sid=7e87e442-792a-494d-96a2-fa87aa3cfe05)
+![Link Demo](https://www.loom.com/share/c53f9cf29d5f4ed29eb29fc9cc85d6a4?utm_medium=gif)
 
 Author:
 
