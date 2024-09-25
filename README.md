@@ -1,40 +1,36 @@
-# :books: Murakami's Book - Aruki Murakami Book Sale :books:
----
+# Clínica Odontológica
 
-Murakami's Book is an e-commerce for the sale of books by the famous writer Aruki Murakami.
+## Descripción
 
-The website is a SPA (Single Page Application) with:
+Esta es una aplicación web para la gestión de una clínica odontológica, desarrollada en Java utilizando JSP y Servlets. La aplicación permite a los usuarios gestionar citas y pacientes de manera eficiente. Actualmente, la sección de gestión de usuarios está completada, mientras que la funcionalidad para la gestión de odontólogos se encuentra en desarrollo, al igual que la sección de pacientes.
 
-- Navigation Menu
-- Home: All the products on the page are displayed in this view
-- Sections: In these different sections the different genres and their respective author titles are displayed
-- Shopping Cart: In this view the area of the shopping cart of the selected products with their respective tickets is displayed
-- Detail view: View with all the details of the product.
+## Tecnologías Utilizadas
 
-## Installation :computer:
+- **Java**: Para la lógica del backend.
+- **JSP (JavaServer Pages)**: Para la generación dinámica de contenido HTML.
+- **Servlets**: Para manejar las solicitudes y respuestas HTTP.
+- **Eclipse Persistence (JPA)**: Para la gestión de la persistencia de datos.
+- **MySQL**: Como base de datos para almacenar la información de la clínica.
+- **phpMyAdmin**: Para la administración de la base de datos.
 
----
+## Características Completadas
 
-1. Clone the repository
-2. Stopped in the root of the project I ran the command "npm install" to install all the dependencies of the project
-3. Use "npm start" to run the project, which will be available at http://localhost:3000/
+- **Gestión de Usuarios**: Registro, actualización y eliminación de usuarios.
+- **Gestión de Citas**: Programación y seguimiento de citas para pacientes.
+- **Registro de Pacientes**: Manejo de la información y datos relevantes de los pacientes.
+- **Interfaz de Usuario**: Diseño amigable y fácil de navegar.
 
-## Dependencies :card_index_dividers:
+## Ejecución de la Aplicación :calling:
 
----
+Para ver una demostración de la aplicación, puedes ver el siguiente video:
 
-- Using Bootstrap to format the application and native CSS to format the application.
-- Using React Router Dom for navigation.
+[![Video de demostración](https://via.placeholder.com/600x400.png?text=Video+de+Demostraci%C3%B3n)](https://www.loom.com/embed/c53f9cf29d5f4ed29eb29fc9cc85d6a4?sid=9a303e0a-fdaf-4d19-9cb1-0ae246dd30d5)
 
-## Running application :calling:
+> Haz clic en la imagen para ver el video.
 
----
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/c53f9cf29d5f4ed29eb29fc9cc85d6a4?sid=9a303e0a-fdaf-4d19-9cb1-0ae246dd30d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-![React-App](https://www.loom.com/embed/c53f9cf29d5f4ed29eb29fc9cc85d6a4?sid=9a303e0a-fdaf-4d19-9cb1-0ae246dd30d5)
-
-Author:
+## Autor
 
 Amadeo Isella :smiley:
 
-2021 - Curso de React en CoderHouse :atom:
+2024 - ☕
+
